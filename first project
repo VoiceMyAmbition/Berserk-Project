@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<head>
+<title>Berserk</title>
+<link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="heading">
+    <h1 class="intro">ベルセルク</h1>
+    <h4><a class="contact-section" href="#contact-info">by Shion Lowry</a></h4>
+    <a href=""><img class="heading-icon" src="/images/149086-essential-set/png/resume.png" alt="resume" title="Resume" height="5%" width="5%" </a>
+    <a href=""><img class="heading-icon" src="/images/github.png" alt="github" title="GitHub" height="5%" width="5%"></a>
+    <a href=""><img class="heading-icon" src="images/149086-essential-set/png/folder-7.png" alt="portfolio" title="Portfolio" height="5%" width="5%"> </a>
+</div>
+<img class="GnG" alt="Griffith and Guts" src="https://i.imgur.com/PY7vzur.png">
+
+<div class="toc">
+<ul>Table of Contents
+    <li><a class="toc-link" href="#introduction">Introduction</a></li>
+    <li><a class="toc-link" href="#plot">Plot</a></li>
+    <li>
+    <ul>Main Characters
+        <li>Guts</li>
+        <li>Griffith</li>
+        <li>Puck</li>
+        <li>Casca</li>
+    </ul>
+    </li>
+    <li><a class="toc-link" href="#sources-footer">Sources</a></li>
+</ul>
+</div>
+    
+<h2 class="subtitle" id="introduction">Introduction</h2>
+<p>Berserk (Japanese: ベルセルク, Hepburn: Beruseruku) is a Japanese manga series written and illustrated by 
+    Kentaro Miura. Set in a medieval Europe-inspired dark fantasy world, the story centers on the characters 
+    of Guts, a lone mercenary, and Griffith, the leader of a mercenary band called the "Band of the Hawk".
+</p>
+
+<h2 class="subtitle" id="plot">Plot</h2>
+<p >Guts (ガッツ, Gattsu) is a wandering mercenary who has known war and death since he was born from a hanged corpse and saved by his adopted 
+    mother, who died from the plague when he was only three years old. He was raised and trained as a mercenary by his adopted father, Gambino,
+     but Gambino blamed Guts for his wife's death, selling access to the boy to a rapist amongst the mercenaries and later, attempts to murder 
+     Guts in a drunken rage. Guts flees after killing his adoptive father in self-defense, eventually growing into a young mercenary who earned 
+     a fearsome reputation while fighting. Guts eventually catches the attention of Griffith, the angelically charismatic leader of the mercenary 
+     group, "Band of the Hawk" (鷹の団, Taka no Dan). Griffith forces Guts into joining his forces upon defeating him in battle. Guts quickly rises 
+     through the ranks of the mercenary group, eventually becoming the Hawks' renowned raid leader and Griffith's deadliest subordinate. They are 
+     hired by the kingdom of Midland to help win the Hundred Year War against the Tudor empire. During this time, Guts bonds with the Band of
+      the Hawk and learns of Griffith's mysterious pendant, the Crimson Behelit, along with Griffith's dream to rule a kingdom of his own. When
+       the Hawks encounter a monstrous immortal being known as Nosferatu Zodd, it adds further mystery to the Behelit as Zodd spares Guts and 
+       Griffith upon seeing it, warning the former of his impending death should he be a true friend of Griffith's.
+</p><p>
+    In time, the Hawks play a vital role in ending Midland's Hundred Year War with the nation of Tudor, eventually becoming ordained knights by
+     the king of Midland. Guts gradually develops a relationship with Griffith's unit commander, Casca, the Hawks' only female member. Casca 
+     and Guts are initially hostile toward one another, but eventually start to fall in love after Guts saves Casca's life and successfully 
+     fights against one hundred men by himself to save her. After having overheard Griffith say that he can only consider someone a true friend
+      if they have their own dream, Guts tries to leave the Hawks as the war ends and Griffith defeats his political enemies. Griffith refuses 
+      to let Guts leave the Band of the Hawk, claiming that he owns him. The two duel in single combat and Guts wins in a single blow. Unable
+       to cope with losing to Guts, Griffith ruins his fortunes when found seducing the King's daughter, Charlotte. He ends up imprisoned to
+        be tortured endlessly while the Hawks are marked for death. During Griffith's captivity, his torturer throws his behelit away. Guts 
+        spends the next year of his life training to become a better swordsman, but is warned on his first night by a mysterious, seemingly 
+        demonic being he calls "The Skull Knight", that his actions have set forth "The Eclipse", that will happen in one year's time. After
+         hearing of the Hawks' dire straights in a fighting tournament, he temporarily returns to the Hawks and learns of Griffith's fate and
+          the rest of the story. He reunites and starts a romantic relationship with Casca and helps the outlawed remnants of the Hawks rescue
+           Griffith, only to find him horribly mutilated and rendered a mute shadow of his former self.
+</p><p>
+    Though the group successfully escapes past the border with Griffith, it becomes clear that Griffith's injuries are too great and he would 
+    never again be able to physically move on his own or fulfill his dream of ruling a kingdom. Guts also soon plans to leave the Hawks again,
+     bringing Casca with him, though she refuses to go, overwhelmed by guilt over Griffith's current state. Through preordained events, the 
+     despairing Griffith regains his behelit and unknowingly activates it during a solar eclipse. This transports the Hawks to another plane 
+     where they encounter archdemons collectively known as the God Hand in a ceremony known as "the Eclipse". Urged onward by the eldritch
+      beings to become one of them to realize his dream, Griffith sacrifices his soldiers to the God Hand's "apostles"—humans like Nosferatu 
+      Zodd who have become powerful demons by sacrificing their loved ones and humanity for power—each of the Hawks are "branded" with a symbol
+      on their body identifying them as sacrifices. While Griffith has visions from the God Hand showing him that he was always destined to 
+      come to the Eclipse, Guts and Casca desperately fight for their lives while witnessing the brutal slaughter of their comrades. Eventually
+       all of the Band of the Hawk are slaughtered and devoured by the demons. However, with Casca being the only woman present, she is toyed
+        with naked by the demons. Griffith finally emerges reborn as the God Hand's fifth and final member, "Femto". Griffith's first act upon
+         his ascension is to rape Casca in front of Guts. Guts loses his right eye and cuts off his own left forearm to escape captivity in a
+          rage-filled attempt to kill Griffith and save Casca before losing consciousness.
+</p><p>
+    Guts and Casca are saved from death and brought back into the physical world at the last minute through the intervention of the mysterious
+    and powerful Skull Knight yet again. However, the damage is done, as Casca is rendered insane from her horrific experiences. Guts learns
+     that the Brands of Sacrifice that he and Casca now bear leave him open to be preyed upon by specters and other evil supernatural creatures
+      on a nightly basis. Casca is left in the care of the blacksmith Godo and Rickert, the only Band of the Hawk member who escaped sacrifice 
+      because he was not present at the Crimson Behelit's activation. Guts takes an enormous sword from Godo known as Dragonslayer, and a 
+      prosthetic left arm that contains a hidden cannon built by Rickert, and begins hunting down apostles in search of revenge against Griffith.
+       During this time, Guts begins seeing an ethereal deformed infant that appears before him, what was his and Casca's unborn child tainted
+        by Femto's rape.
+</p><p>
+    Two years later, Guts is joined by an elf named Puck and a young thief named Isidro. Casca eventually runs away from Rickert, sending Guts
+     on a mad hunt to find her. Guts is later reunited with Casca as she is about to be burned as a witch in the city of St. Albion. There, 
+     along with Puck and Isidro, they encounter Farnese and Serpico of the Holy See Church's Holy Iron Chain Knights. Guts endures a nightmarish 
+     ordeal that ends in Griffith being incarnated into a new physical form being restored through a misshapen Apostle whose dream was to "hatch"
+      a new world. This Apostle also ingested the deformed infant after stumbling upon its weakened and dying body moments before the Incarnation
+       ceremony, resulting in Griffith's new body bearing some sort of influence of the infant.
+</p><p>
+    Puck suggests that Casca's mind might be restored if they take her to the Elven realm of Elfhel. Guts, desperate to save his loved one, heads
+     there for sanctuary with the help of his new companions. They are soon joined by the witch Schierke who teaches Farnese magic and negates 
+     the effects of the brand on Guts and Casca. Griffith creates a second Band of the Hawk with Zodd and other demonic Apostles among its ranks
+      to battle the invading Kushan army. The war between Griffith and the Kushan emperor, Ganishka, a rogue apostle, climaxes with the emperor's
+       destruction and the overlapping of the mortal realm and the supernatural astral realm.
+</p><p>
+    Now unopposed, Griffith finally obtains his own kingdom by establishing his rule over Midland with the endorsement of the Pope and Princess 
+    Charlotte, creating the city of Falconia to provide the Midlanders with refuge from the ever-increasing attacks of mythical beasts, unaware
+     that their new ruler is actually one of them. At the same time, Guts and his party take a ship toward Elfhelm. Following a dramatic battle
+      with the Sea God, Guts's party reaches Elfhelm, on the island of Skellig. The elf ruler, Danann, helps Farnese and Schierke travel into
+       Casca's mind and restore her to her former self. However, despite recovering her memories, Casca still has not overcome the trauma from 
+       the events of the eclipse completely, usually collapsing when she sees Guts or remembers her fallen comrades. At the same time, Farnese
+        and Schierke begin training with the other apprentice witches and wizards living on Skellig, during which Farnese expresses an interest
+         in the power to heal human souls, specifically Casca. At the same time, Guts encounters the Skull Knight once again who tells him that
+          his journey is at an end.
+</p><p>
+    Meanwhile, Griffith is shown leading his new armies of both humans and "war demons" against an army of giants that have emerged due to the 
+    effects of Griffith's and Ganishka's war. Griffith's army scores a swift victory with Griffith delivering the final blow against the giant 
+    leader in the climax of the battle. Following this, Griffith participates in a council with the other nobles of Falconia before departing 
+    that evening for currently unknown reasons.
+
+</p>
+
+<div class="contact-info" id="contact-info">
+    <h1><strong>Contact Me</strong></h1>
+    <form>
+        <img src="/images/149086-essential-set/png/id-card-4.png" alt="person" width="20px" height="20px" >
+        <input type="text" placeholder="Name" required>
+        <br>
+        <img src="/images/149086-essential-set/png/paper-plane-1.png" alt="email" height="20px" width="20px">
+        <input type="email" placeholder="E-mail" required>
+        <br>
+        <img src="/images/149086-essential-set/png/document.png" alt="Comments" width="20px" height="20px">
+        <input type="text" placeholder="Comments">
+        <br>
+        <button class="contact" type="submit">Submit</button>
+    </form>
+</div>
+
+<footer id="sources-footer">
+    <p>All information was taken from <a class="footer-link" href="https://en.wikipedia.org/wiki/Berserk_(manga)">
+    wikipedia.</a>
+    <br>
+    Icons made by <a class="footer-link" href="https://www.flaticon.com/authors/smashicons" title="Smashicons">
+        Smashicons</a> from <a class="footer-link" href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+    <br>
+    <a class="footer-link" href="https://flyclipart.com/white-github-icon-github-logo-png-813505">White Github Icon - Github Logo PNG</a>
+    </p>
+    </footer>
+
+</body>
+
+</html>
